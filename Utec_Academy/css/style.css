@@ -49,6 +49,14 @@
 			text-align: center;
 			line-height: 50%;
 		}
+		t2
+		{
+
+			color:inherit;
+			font-size: 11pt;
+			text-align: right;
+			line-height: 50%;
+		}
 	body,input,textarea,select
 	{
 		font-family: 'Source Sans Pro', sans-serif;
