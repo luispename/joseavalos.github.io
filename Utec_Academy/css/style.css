@@ -38,7 +38,16 @@
 			color:inherit;
 			font-size: 12pt;
 			text-align: justify;
-			line-height: 1em;
+			line-height: 50%;
+		}
+
+		t1
+		{
+
+			color:inherit;
+			font-size: 18pt;
+			text-align: center;
+			line-height: 50%;
 		}
 	body,input,textarea,select
 	{
