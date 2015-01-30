@@ -25,6 +25,20 @@
 			animation: none !important;
 		}
 
+		nuevo {
+    		color: #888;
+    		font-size: 14pt;
+   			text-align: justify;
+    		text-justify: inter-word;					
+    	}
+
+		nuevo2 
+		{
+
+			color:inherit;
+			font-size: 12pt;
+			text-align: justify;
+		}
 	body,input,textarea,select
 	{
 		font-family: 'Source Sans Pro', sans-serif;
@@ -528,7 +542,7 @@
 		position: fixed;
 		top: 0;
 		left: 0;
-		width: 5px;
+		width: 375px;
 		height: 100%;
 		color: #fff;
 		background: #222629 url('images/overlay.png');
